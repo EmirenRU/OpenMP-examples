@@ -1,1 +1,1 @@
-# OpenMP-examples
+# Optimization methods
