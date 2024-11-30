@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9025: overriding '/openmp' with '/openmp:llvm'
+  OpenMP-lab2.cpp
+  OpenMP-lab2.vcxproj -> C:\Users\Emil Yusupov\source\repos\OpenMP-lab2\x64\Debug\OpenMP-lab2.exe
